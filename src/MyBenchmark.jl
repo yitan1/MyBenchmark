@@ -1,5 +1,5 @@
 module MyBenchmark
 
-# Write your package code here.
+include("mkl")
 
 end
